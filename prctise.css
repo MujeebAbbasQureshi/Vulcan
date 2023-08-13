@@ -1,0 +1,46 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.vulcan{
+    background-image: url(wave-blue-light.png);
+    background-size: cover;
+   
+}
+.vulcan h1{
+    padding-left: 8%;
+    padding-top: 6%;
+   
+}
+.vulcan p{
+    padding-left: 7%;
+    padding-top: 5px;
+}
+.icon{
+    
+}
+.ist-icon-last{
+  
+    padding-left: 35%;
+    
+    margin-bottom: 3px;
+}
+
+.nd-icon-last{
+    display: flex;
+    padding-left: 40%;
+    padding-bottom: 6px;
+}
+.rd-icon-last{
+    display:flex;
+    padding-left: 50%;
+    padding-bottom: 5px;
+    font-size: 25px;
+    
+}
+.para{
+    padding-left: 10%;
+    
+    padding-top: 5%;
+}

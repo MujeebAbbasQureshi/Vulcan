@@ -1,0 +1,352 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;  
+}
+.root{
+    background-image: url(header-slider-img-01.jpg);
+    color: white;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 20px;
+    font-weight: 900;
+    color: white;
+    padding-right: 40px;
+}
+.first-icon{
+    display: flex;
+    padding-left: 100px;
+}
+.sec-icon{
+    display: flex;
+    padding-right: 55px;
+    padding-bottom: 1%;
+    
+}
+.image-container{
+    width: 10%;
+    padding-top: 1%;
+    padding-left: 40%;
+    height: 10%;
+}
+.image-container img{
+    width: 200%;
+    height: 10%;
+    padding-top: 15px;
+}
+.caustom.btn{
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 5px;
+    padding-top: 1%;
+    padding-bottom: 4px;
+}
+
+.btnn{
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 5px;
+    padding-top: 1%;
+}
+.header-text{
+    text-align: center;
+    padding-left:6%;
+    padding-top: 1px;
+    
+}
+.header-text h2{
+    font-size: 100px;
+    padding-right: 4.5%;
+    justify-content: middle;
+}
+.header-text p{
+    padding-right: 4.5%;
+    margin-bottom: 2%;
+    justify-content: middle;
+}
+.container-head{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    border: 2px solid gray;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    background-color: rgb(50, 58, 66)
+}
+.f-items{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.st-para{
+    text-align: center;
+    font-size: 40px;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Roboto';
+    padding-top: 2%;
+}
+.coustom{
+    justify-content: center;
+    justify-content: space-evenly;
+    border: 2px solid white;
+    padding-top: 0.5%;
+    width: 12%;
+    font-size: 20px;
+    background: transparent;
+    color: white;
+    padding: auto;
+    cursor: pointer;
+}
+.text{
+    text-align: center;
+    margin-top: 2%;
+    color:rgb(79,79,129);
+}
+.images{
+    display: flex;
+     justify-content: center;
+     justify-content: space-evenly;
+
+}
+.img-text{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 2%;
+    color: rgb(0,191,255);
+    font-size: 600;
+}
+.img-text-two{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 38%;
+    padding-right: 15%;
+    color: rgb(0,191,255)
+}
+.nd-p-sec{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-decoration-line:underline;
+    cursor: pointer;
+}
+.third-page{
+    background-color: black;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+.pic-head{
+ padding-left: 20%;
+ padding-right: 20%;
+ text-align: center;
+}
+.pic-para{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    color: rgb(0 191 255);
+}
+.lines{
+    border: 2px solid white;
+    margin-left: 9%;
+    margin-right: 7%;
+}
+.after-hori{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.form-custom{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.st-form-text{
+    border: 10px solid gray;
+}
+.nd-form-text{
+    border: 10px solid gray;
+}
+.rd-form-text{
+    border: 10px solid gray;
+}
+.rth-form-text{
+    border: 10px solid gray;
+}
+.fif-form-text{
+    border: 10px solid gray;
+}
+.btn-cstm{
+    padding-left: 40%;
+    padding-right: 40%;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-top: 1%;
+    background-color: rgb(50 159 202);
+    color: white;
+    cursor: pointer;
+    overflow: hidden;
+}
+.head{
+
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+.lines{
+    border: 2px solid white;
+    margin-left: 9%;
+    margin-right: 7%;
+}
+.after-hori{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.head{
+    background-image: url(bg-section-about-us.jpg);
+    margin-top: 15px;
+    padding-top: 3px;
+}
+.head h1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    color:white ;
+    margin-top: 19px;
+    padding: 75px;
+}
+.head p{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    color: white;
+    padding-right: 120px;
+    
+}
+
+.btn-con{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    font-size: 25px;
+    padding-left: 25px;
+    padding-right: 15px;
+    margin-left: 40%;
+    cursor: pointer;
+}
+.vd-head{
+    background-color: rgb(2, 138, 192);
+    display:flex ;
+  justify-content: center;
+  padding-left: 10%;
+  
+}
+
+.video{
+    border: 10px solid rgba(2 62 116);
+  
+}
+.container{
+    background-color: rgba(0, 255, 255, 0.384);
+    font-size: 25px;
+padding-top:1%;
+padding-bottom: 1%;
+padding-left: 3%;
+}
+.conte-btn{
+   background-color:rgb(52 169 253);
+   color: white;
+   border: none;
+   border-radius: 3px;
+   font-size: 17px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   margin-left: 15px;
+   cursor: pointer;
+  
+}
+.sec-end{
+    background-color: rgb(62 96 123);
+    display: flex;
+    overflow: hidden;
+}
+.sec-end-head{
+    color: white;
+    padding-left: 5%;
+    padding-top: 4%;
+    padding-bottom: 3%;
+    text-align: center;
+    margin-right: 4%;
+}
+.btn{ 
+    background-color: darkslateblue;
+    color: white;
+    padding: 15px;
+   border-style: none;
+    right: 5px;
+    bottom: 35px;
+    margin-left: 35px;
+    margin-top: 14px;
+    cursor: pointer;
+}
+.map-img{
+  background-image: url(map.jpg);
+ width: 55%;
+ background-repeat: no-repeat;
+ margin-left: 20%;
+}
+.thr-set{
+    padding-top: 15%;
+    padding-left: 45%;
+}
+
+.btne{
+   background-color: rgb(52 169 253);
+   margin-top: 1%;
+   margin-left: 1%;
+   padding-top: 1%;
+   padding-right: 2%;
+   padding-bottom: 1%;
+   padding-left: 1; 
+   color: white;
+   border: none;
+   font-size: 17px;
+   cursor: pointer;
+}
+
+
+    
+
+
